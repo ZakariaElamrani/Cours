@@ -1,0 +1,5 @@
+*.log
+!versus.log
+packs/
+text.txt
+
